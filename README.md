@@ -36,8 +36,11 @@ When you solder both I/O and terminal together, take them apart to continue with
 Now it is time to put in your leds, pay attention at he orientation. Square pad is the longest led.
 After that mount the terminal PCB and solder the 2 USB middle wires back in.
 
+Mount the panel on the I/O board and solder all your LEDs, bananas and switch.
+
 OK, now time to mount the 4U power and I2C bus.
 
+![alt text](https://github.com/themangoest/TT4U/blob/main/TT4U%20busboard.png)
 
+On this busboard you can choose between MTA100 , MTA 156 or Eurorack header.
 
-Mount the panel on the I/O board and solder all your LEDs, bananas and switch.
